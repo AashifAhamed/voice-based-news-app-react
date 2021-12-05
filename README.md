@@ -1,3 +1,12 @@
+Voice Controlled React News Application - Alan AI Voice Assistant
+
+used API list:
+
+  newsapi.org
+
+  alan.app
+
+
 ![image](https://user-images.githubusercontent.com/41619372/144760046-b7dc0ebc-f041-45b1-854b-03da80b66824.png)
 
 In the project directory, you can run:
